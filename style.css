@@ -1,0 +1,42 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  height: 300px;
+  width: 1750px;
+  outline: none;
+  text-align: center;
+}
+.heads td {
+  border: 1px solid rgb(0, 0, 0);
+  padding-left: 20px;
+}
+td {
+  border-left: 1px solid rgb(24, 22, 22);
+
+  padding: 20px;
+}
+.tablebox {
+  margin: 50px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#table1 {
+  display: none;
+}
+img {
+  height: 100px;
+  width: 100px;
+  margin-left: 10px;
+  object-fit: cover;
+}
+#table2 {
+  display: none;
+}
+#table3 {
+  display: none;
+}
